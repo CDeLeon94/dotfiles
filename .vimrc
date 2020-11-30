@@ -43,6 +43,7 @@ set smartindent
 syntax on
 set background=dark
 set hls
+set backspace=indent,eol,start
 
 "remapping for split-view navigation
 nnoremap <C-J> <C-W><C-J>
