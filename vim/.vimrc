@@ -40,6 +40,7 @@ set number
 set expandtab
 set softtabstop=4
 set smartindent
+set nowrap
 syntax on
 set background=dark
 set hls
