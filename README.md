@@ -1,7 +1,12 @@
 # My Dotfiles  
 Some config files for consistency across different machines for terminal and vim  
 
+Files are setup to take advantage of the utility 'stow'.
+Clone into ~.dotfiles
+Use `stow <foldername>` to have the named configuration symlinked to the right place
+
 # Requirements  
+ - GNU stow installed
  - [Vundle](https://github.com/VundleVim/Vundle.vim)  
  - Universal C-Tags  https://ctags.io/  
  - Powerline Fonts for your Host OS  
