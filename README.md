@@ -5,6 +5,8 @@ Files are setup to take advantage of the utility 'stow'.
 Clone into ~.dotfiles
 Use `stow <foldername>` to have the named configuration symlinked to the right place
 
+May need to reference https://github.com/forteleaf/sketkchybar-with-aerospace/ for proper setup instructions for sketchybar-aerospace integration (working instructions to be ported)
+
 # Requirements  
  - GNU stow installed
  - [Vundle](https://github.com/VundleVim/Vundle.vim)  
